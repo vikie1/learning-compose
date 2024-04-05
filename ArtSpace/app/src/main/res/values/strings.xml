@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="year">(%d)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="amaranth">Red amaranth flower amongst green vegetation</string>
+    <string name="clothesline">A clothes line with clothes</string>
+    <string name="fence">A vegetation based fence</string>
+    <string name="flower">Close up picture of a flower</string>
+    <string name="flowers">Flowering plant in a flower bed</string>
+    <string name="grasshopper">A grasshopper amongst leaves</string>
+    <string name="grasshopper_pro">A grasshopper amongst leaves with increased contrast and saturation</string>
+    <string name="artist">Victor Mwangi</string>
+</resources>
