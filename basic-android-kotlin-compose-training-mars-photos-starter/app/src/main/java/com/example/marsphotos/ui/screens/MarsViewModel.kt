@@ -33,8 +33,8 @@ import java.io.IOException
 
 sealed interface MarsUiState {
     data class Success(val photos: List<MarsPhoto>) : MarsUiState
-    object Error : MarsUiState
-    object Loading : MarsUiState
+    data object Error : MarsUiState
+    data object Loading : MarsUiState
 }
 
 class MarsViewModel(private val marsPhotoRepository: MarsPhotosRepository) : ViewModel() {
